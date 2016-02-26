@@ -1,0 +1,1 @@
+Ecf4J é um framework para interação de programas desenvolvidos em Java com equipamentos de Automação Comercial utilizados no Brasil. O Ecf4J é totalmente desenvolvido em Java, possibilitando que os desenvolvedores possam alterar e/ou implementar novas funcionalidades.
